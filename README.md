@@ -1,3 +1,3 @@
-# PAGES
+# Pages
 
 My GitHub pages.
